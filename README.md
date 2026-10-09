@@ -1,1 +1,162 @@
-# aws-workshop
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Yashwanth N - Resume</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="container">
+
+        <header>
+            <h1>Yashwanth N</h1>
+            <p> BCA Student | Software Development</p>
+            <h3>Career Objective</h3>
+            <p>
+                Motivated BCA student seeking an entry-level opportunity in
+                software development or IT, where I can apply my technical
+                skills, gain practical experience, and contribute to the
+                organization's growth.
+            </p>
+        </header>
+
+        <div class="contact">
+            <p>Email: iam...@gmail.com</p>
+            <p>Phone: 6362166036</p>
+            <p>Date of Birth: 16 May 2006</p>
+            <p>LinkedIn: www.linkedin.com/in/yashwanth-n-064977280</p>
+        </div>
+
+        <div class="main">
+
+            <div class="left">
+
+                <section>
+                    <h2>Education</h2>
+
+                    <h3>Bachelor of Computer Applications (BCA)</h3>
+                    <p>Amrita Vishwa Vidyapeetham, Mysore</p>
+                    <p>5th Semester - Present</p>
+                    <p>CGPA: 8.35/10 (up to 5th semester)</p>
+
+                    <h3>Pre-University Course (10 + 2)</h3>
+                    <p>Bright PU College, Chamarajanagar</p>
+                    <p>July 2024 | Percentage: 91.16%</p>
+
+                    <h3>SSLC (10th)</h3>
+                    <p>St. Joseph's High School, Chamarajanagar</p>
+                    <p>April 2022 | Percentage: 84.96%</p>
+                </section>
+
+                <section>
+                    <h2>Projects</h2>
+
+                    <h3>Student Attendance Management System</h3>
+                    <ul>
+                        <li>
+                            Developed an application to manage and track
+                            student attendance efficiently.
+                        </li>
+                        <li>
+                            Built using C programming language.
+                        </li>
+                    </ul>
+
+                    <h3>Bank Queue Management System</h3>
+                    <ul>
+                        <li>
+                            Managed customer queues using Queue and
+                            Priority Queue data structures.
+                        </li>
+                        <li>
+                            Implemented FIFO and priority-based service
+                            to organize customer service.
+                        </li>
+                        <li>
+                            Helped reduce waiting time and improve
+                            queue management.
+                        </li>
+                    </ul>
+
+                    <h3>Pre-Owned Luxury Car Website</h3>
+                    <ul>
+                        <li>
+                            Developed a full-stack website to explore,
+                            buy, and sell luxury cars with model,
+                            price, and specification details.
+                        </li>
+                        <li>
+                            Technologies: HTML, CSS, JavaScript,
+                            React, Node.js, and Database.
+                        </li>
+                    </ul>
+                </section>
+
+                <section>
+                    <h2>Certifications</h2>
+
+                    <p>
+                        <strong>The Ultimate Beginner's Guide to AI
+                        and Machine Learning</strong><br>
+                        Udemy - Course in progress
+                    </p>
+
+                    <p>
+                        <strong>HTML, CSS, JavaScript Essentials 1 & 2</strong><br>
+                        Cisco Networking Academy - Completed in 2025
+                    </p>
+                </section>
+
+            </div>
+
+            <div class="right">
+
+                <section>
+                    <h2>Skills</h2>
+                    <ul class="skills">
+                        <li>Data Structures</li>
+                        <li>C, C++, Java, Python</li>
+                        <li>MERN Stack Development</li>
+                        <li>Database Management Systems (DBMS)</li>
+                        <li>Big Data Analytics</li>
+                    </ul>
+                </section>
+
+                <section>
+                    <h2>Co-Curricular Activities</h2>
+                    <ul>
+                        <li>Participated in technical fests and IT events.</li>
+                        <li>Contributed to software development projects and exhibitions.</li>
+                        <li>Participated in computer science quizzes.</li>
+                        <li>Improved problem-solving and programming skills through coding activities.</li>
+                    </ul>
+                </section>
+
+                <section>
+                    <h2>Languages</h2>
+                    <p><strong>English</strong> - Professional Working Proficiency</p>
+                    <p><strong>Kannada</strong> - Native Proficiency</p>
+                </section>
+
+                <section>
+                    <h2>Hobbies</h2>
+                    <ul class="hobbies">
+                        <li>Traveling</li>
+                        <li>Music</li>
+                        <li>Sports & Fitness</li>
+                        <li>Trekking</li>
+                        <li>Motorcycling</li>
+                        <li>Car Enthusiast</li>
+                    </ul>
+                </section>
+
+            </div>
+
+        </div>
+    </div>
+
+</body>
+</html># aws-workshop
